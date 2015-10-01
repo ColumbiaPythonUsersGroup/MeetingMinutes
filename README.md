@@ -7,8 +7,8 @@
 1. Anaconda will install to `C:\Users\(Your Username)\Anaconda3`
 
 2. Ensure you Check: 
-	a. [x] Add Anaconda to my path 
-	b. [x] Register Anaconda as my default Python 3.4
+  a. Add Anaconda to my path 
+  b. Register Anaconda as my default Python 3.4
 
 3. Python and ipython will be added to your path. If it doesn't work in cmd, make sure to restart cmd.
 
