@@ -1,4 +1,4 @@
-#Meeting #1 9/29/2015
+#Meeting #1 9/30/2015
 
 ## Installing Anaconda and Jupyter on Windows
 
