@@ -60,6 +60,6 @@ git push origin master
 ## Python Challenge
 Link: [Python Challenge](www.pythonchallenge.com)(www.pythonchallenge.com)
 
-aAnthony suggested python challenge as a good way to get acquainted with the language. Great idea! Check it out above. Use Python to solve the problems. If you get stuck, let us know!
+Anthony suggested python challenge as a good way to get acquainted with the language. Great idea! Check it out above. Use Python to solve the problems. If you get stuck, let us know!
 
 
