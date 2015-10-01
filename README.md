@@ -1,4 +1,4 @@
-# Columbia Python Users Group Meeting #1 9/29/2015
+#Meeting #1 9/29/2015
 
 ## Installing Anaconda and Jupyter on Windows
 
@@ -57,11 +57,9 @@ git commit -m "Changed Stuff"
 git push origin master
 ```
 
-
-
-
 ## Python Challenge
 Link: [Python Challenge](www.pythonchallenge.com)(www.pythonchallenge.com)
-Anthony suggested python challenge as a good way to get acquainted with the language. Great idea! Check it out above. Use Python to solve the problems. If you get stuck, let us know!
+
+aAnthony suggested python challenge as a good way to get acquainted with the language. Great idea! Check it out above. Use Python to solve the problems. If you get stuck, let us know!
 
 
